@@ -18,4 +18,4 @@ Let's make the page more attractive by applying different styles. You will explo
 Add the back side with the answers for each card and apply animation to create the "card flip" effect. 
 
 ### Screenshot
-![screenshot](https://github.com/sanikamal/jetbrains-academy-projects/tree/main/Flashcards/sc.JPG)
+![screenshot](https://github.com/sanikamal/jetbrains-academy-projects/tree/main/Flashcards/sc.JPG?raw=true)
