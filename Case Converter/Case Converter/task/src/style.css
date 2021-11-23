@@ -1,0 +1,17 @@
+textarea {
+    /*width: 600px;*/
+    border: 2px solid gray;
+
+}
+.title {
+    color: #2f2e2e;
+    font-size: 24pt;
+    font-weight: bold;
+    margin-top: 5px;
+}
+button {
+    padding: 6px;
+    background-color: #f1865f;
+    font-weight: bold;
+    border: none;
+}
